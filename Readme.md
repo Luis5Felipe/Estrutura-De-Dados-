@@ -1,0 +1,1 @@
+Esse repositorio contém todos os meu estudos da carteira de estrutura de dados 
